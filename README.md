@@ -44,5 +44,5 @@ El flujo de trabajo del script es el siguiente:
 ## 🤝 Contribuciones
 Las contribuciones son bienvenidas. Si tienes ideas para soportar más formatos (como .docx o .png), no dudes en abrir un Pull Request o crear un Issue.
 
->[!IMPORTANT]
+>[!WARNING]
 >Si no puedes descargar algunas librerias, hazlo desde un entorno env en la terminal
